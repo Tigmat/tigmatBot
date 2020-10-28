@@ -1,4 +1,4 @@
-#tigmatBot by Tigmat Gaming
+#tigmatBot by Tigmat
 
 import discord
 from discord.ext import commands
